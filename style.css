@@ -90,6 +90,10 @@
   background:cornsilk;
   margin-top: 23px;
   position: relative;
+  border:2px dotted black;
+}
+.home-article img:hover{
+	border:2px solid ;
 }
 
 .year-box {
